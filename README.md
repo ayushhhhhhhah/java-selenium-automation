@@ -1,22 +1,16 @@
-# Java Selenium Automation Testing Project
+# OrangeHRM Automation Testing
 
-## Overview
-
-Automation testing framework built using Selenium WebDriver with Java.
-
-## Tech Stack
-
-* Java
-* Selenium
-* TestNG
-* Maven
+This project automates the OrangeHRM demo application using Selenium WebDriver in Java.
 
 ## Features
+- Login automation
+- Dashboard validation
+- Logout functionality
 
-* Page Object Model (POM)
-* Automated test cases
-* Test reports
+## Tools Used
+- Java
+- Selenium WebDriver
+- IntelliJ IDEA
 
-## How to Run
-
-mvn clean test
+## URL
+https://opensource-demo.orangehrmlive.com/
