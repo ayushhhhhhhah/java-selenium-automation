@@ -11,7 +11,7 @@ import java.time.Duration;
 
 public class StartOrangeHRMAutomation {
     public static void main(String[] args) {
-        System.out.println("Hello Nigga this is the automation testing using java");
+        System.out.println("Hello this is the automation testing using java");
 
         WebDriver driver = new ChromeDriver(); // This is used to select the web browser
 
